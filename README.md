@@ -4,6 +4,7 @@ Top-down 2.5D open-world crime game in the spirit of GTA, running entirely in yo
 Explore the sun-soaked city of Sol Dorado on foot and by car, steal vehicles, run story missions,
 and outrun the police as your wanted level climbs.
 
+[![gta6-01](https://make.fun/badge/gta6-01.svg)](https://make.fun/bounty/gta6-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-01)
 [![rank](https://make.fun/badge/gta6-01/Henra09/sol-dorado/rank.svg)](https://make.fun/bounty/gta6-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-01)
 [![reward](https://make.fun/badge/gta6-01/Henra09/sol-dorado/reward.svg)](https://make.fun/bounty/gta6-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-01)
 
